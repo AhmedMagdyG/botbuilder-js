@@ -23,7 +23,7 @@
     "@types/request": "^2.47.0",
     "@types/node": "^9.3.0",
     "base64url": "^2.0.0",
-    "botframework-schema": "4.0.0-preview1.2",
+    "botframework-schema": "4.0.1-preview1.3456",
     "jsonwebtoken": "8.0.1",
     "ms-rest-js": "0.2.8",
     "request": "2.83.0",
